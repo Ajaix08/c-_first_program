@@ -4,7 +4,7 @@ using namespace std;
 class Printable {
 public:
     void print() {
-        cout << "Printing... i am anurag" << endl;
+        cout << "Printing...hello word " << endl;
     }
 };
 class Scannable {
